@@ -23,7 +23,8 @@ To identify patterns in content availability and gain insights into movies and T
 
  🔹 Dashboard Preview
 
-<img width="1920" height="1080" alt="dashboard png" src="https://github.com/user-attachments/assets/ae3a66d6-2b32-49dc-b806-70430fd14166" />
+<img width="1063" height="549" alt="Dashboard png amazon" src="https://github.com/user-attachments/assets/b64bb97c-79c2-4b9d-b100-4e98f25451e6" />
+
 
 
  🔹 Conclusion
